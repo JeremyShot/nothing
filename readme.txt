@@ -8,3 +8,6 @@ Blast him.
 
 
 creating a new branch named 'newline'
+
+
+Creating a new line in brach 'master'.
