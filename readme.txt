@@ -17,3 +17,5 @@ Creating a new branch named 'feature1'
 >>>>>>> feature1
 
 Creating a new branch is quick and simple.
+
+issue handling.
